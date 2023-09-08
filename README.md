@@ -1,0 +1,20 @@
+## onc-user 9 PKQ1.181021.001 V11.0.5.0.PFLCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: onc
+- Brand: xiaomi
+- Flavor: onc-user
+- Release Version: 9
+- Kernel Version: 4.9.112
+- Id: PKQ1.181021.001
+- Incremental: V11.0.5.0.PFLCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: zh-CN
+- Screen Density: undefined
+- Fingerprint: xiaomi/onc/onc:9/PKQ1.181021.001/V11.0.5.0.PFLCNXM:user/release-keys
+- OTA version: 
+- Branch: onc-user-9-PKQ1.181021.001-V11.0.5.0.PFLCNXM-release-keys
+- Repo: xiaomi_onc_dump
