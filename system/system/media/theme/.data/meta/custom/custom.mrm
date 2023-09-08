@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "oncnormal",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]
