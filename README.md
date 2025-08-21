@@ -1,0 +1,20 @@
+## onc-user 10 QKQ1.191008.001 V11.0.6.0.QFFINXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: onc
+- Brand: xiaomi
+- Flavor: onc-user
+- Release Version: 10
+- Kernel Version: 4.9.186
+- Id: QKQ1.191008.001
+- Incremental: V11.0.6.0.QFFINXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: xiaomi/onc/onc:10/QKQ1.191008.001/V11.0.6.0.QFFINXM:user/release-keys
+- OTA version: 
+- Branch: onc-user-10-QKQ1.191008.001-V11.0.6.0.QFFINXM-release-keys
+- Repo: xiaomi_onc_dump
